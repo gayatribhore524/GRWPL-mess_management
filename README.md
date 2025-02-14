@@ -50,6 +50,17 @@ Screenshots of the Project :
     
     ![image](https://github.com/user-attachments/assets/048a51ee-cef5-421c-b24e-b2ec1fa10600)
 
+10. order page
+
+
+    ![image](https://github.com/user-attachments/assets/bdc9a063-524d-478f-9ee6-4fc999811429)
+
+11. About page
+
+
+    ![image](https://github.com/user-attachments/assets/6a780ec0-6ea8-48d0-8fdd-221708abe7f9)
+
+    
 
 
 
